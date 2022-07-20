@@ -1,0 +1,3 @@
+Remove the NaN values from data i.e. clean the data.
+What are the top catagory on play store?
+How importance is the rating of the applications?
