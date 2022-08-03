@@ -54,7 +54,7 @@ The playstore-analysis by using Python libraries.
 
 • Sentiment_Subjectivity: a measure of the expression of opinions, evaluations, feelings, and speculations.
 
-image
+
 **Summery :**
 1.Popular category vs Type count
 
