@@ -2,22 +2,21 @@
 Paly Store App Review Analysis - Analysis by DataDiggers
 Reasons for Analysis
 
-1.The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market
+1.The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture     the Android market
 
-2.Taking into account billion of Android users worldwide, mining this data has the potential to reveal user behaviors and trends in the whole global scope. This dataset is obtained from scraping Google Play Store.
+2.Taking into account billion of Android users worldwide, mining this data has the potential to reveal user behaviors and trends in the whole global scope. This         dataset is obtained from scraping Google Play Store.
 
 3.Explore and analyze the data to discover key factors responsible for app engagement and success.
-
-Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
-
+  Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
 
 
-Data provided by :
+
+**Data provided by :** 
 Almabetter
 
 The playstore-analysis by using Python libraries.
 
-Main Dataset Features
+**Main Dataset Features**
 • App: the app name.
 
 • Category: a categorical label, which describes which broad category the app belongs to.
@@ -44,7 +43,7 @@ Main Dataset Features
 
 • Android Version: the Android operating system the app is compatible with.
 
-Reviews Dataset Features
+**Reviews Dataset Features**
 • App: the app name.
 
 • Translated_Review: the review text in English.
@@ -56,7 +55,7 @@ Reviews Dataset Features
 • Sentiment_Subjectivity: a measure of the expression of opinions, evaluations, feelings, and speculations.
 
 image
-Summery :
+**Summery :**
 1.Popular category vs Type count
 
 2.Popular category vs sentiment (positive ,negative ,natural count )
