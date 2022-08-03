@@ -11,7 +11,8 @@ Reasons for Analysis
 
 Each app (row) has values for catergory, rating, size, and more. Another dataset contains customer reviews of the android apps.
 
-![](playstore_logo.webp)
+![](https://github.com/jayu071/Playstore_DataDigger/raw/main/playstore_logo.webp)
+
 
 ## Data provided by : 
 
