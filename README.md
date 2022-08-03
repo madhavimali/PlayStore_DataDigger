@@ -1,11 +1,11 @@
 # Playstore_DateDrigger
 Play Store App Review Analysis - analysis by DataDigger
 
-Reasons for Analysis
+**Reasons for Analysis**
 
-1.The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market
+1.The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture     the Android market
 
-2.Taking into account billion of Android users worldwide, mining this data has the potential to reveal user behaviors and trends in the whole global scope. This dataset is obtained from scraping Google Play Store.
+2.Taking into account billion of Android users worldwide, mining this data has the potential to reveal user behaviors and trends in the whole global scope. This         dataset is obtained from scraping Google Play Store.
 
 3.Explore and analyze the data to discover key factors responsible for app engagement and success.
 
@@ -14,7 +14,7 @@ Each app (row) has values for catergory, rating, size, and more. Another dataset
 ![](https://github.com/jayu071/Playstore_DataDigger/raw/main/playstore_logo.webp)
 
 
-## Data provided by : 
+### Data provided by : 
 
 Almabetter
 
